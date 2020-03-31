@@ -1,0 +1,385 @@
+============================================================
+Time  2020/03/10 09:00:46 853 
+============================================================
+[2020/03/10 09:00:46 853] tts_purext 1581 Linux  
+[2020/03/10 09:00:46 853] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2020/03/10 09:00:46 853] tts_purext 1632 last gc at  1583802046  
+[2020/03/10 09:00:46 854] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2020/03/10 09:00:46 854] tts_purext 1632 last gc at  1583802046  
+[2020/03/10 09:00:46 854] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoguan,text_encoding=UTF8,tts_res_path=fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet;fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet,sample_rate=16000,speed=60,volume=50,pitch=50,rdn=2  1815000619  
+[2020/03/10 09:00:46 854] tts_purext 1479 ssb_audio_id=  1  
+[2020/03/10 09:00:46 854] tts_purext 1313 fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet;fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  
+[2020/03/10 09:00:46 854] tts_purext 1316 nil  
+[2020/03/10 09:00:46 854] tts_purext 662  resource path:  fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet;fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  
+[2020/03/10 09:00:46 854] tts_purext 678  Disperse res  
+[2020/03/10 09:00:46 854] tts_purext 793  fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet  fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  
+[2020/03/10 09:00:46 854] tts_purext 1320 res_change is  true  
+[2020/03/10 09:00:46 854] tts_purext 1336 res change  
+[2020/03/10 09:00:46 854] tts_purext 1142 lgi:  nil  nil  
+[2020/03/10 09:00:46 854] tts_purext 662  resource path:  fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet;fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  
+[2020/03/10 09:00:46 854] tts_purext 678  Disperse res  
+[2020/03/10 09:00:46 854] tts_purext 652  file_type:  fo  file_path:  /home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet  
+[2020/03/10 09:00:46 854] tts_purext 652  file_type:  fo  file_path:  /home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  
+[2020/03/10 09:00:46 854] tts_purext 1175 fo  fo  /home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  0  /home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet  0  
+[2020/03/10 09:00:46 854] tts_purext 833  speech_plus_setting  0  
+[2020/03/10 09:00:46 854] tts_purext 841  fo  /home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet  0  0  
+[2020/03/10 09:00:46 855] tts_purext 844  res_mark  v5vn  
+[2020/03/10 09:00:46 855] tts_purext 845  check ret  0  
+[2020/03/10 09:00:46 855] tts_purext 853  v5vn  
+[2020/03/10 09:00:46 856] tts_purext 926  res_expires is null  
+[2020/03/10 09:00:46 856] tts_purext 833  speech_plus_setting  0  
+[2020/03/10 09:00:46 856] tts_purext 841  fo  /home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  0  0  
+[2020/03/10 09:00:46 856] tts_purext 844  res_mark  v5vn  
+[2020/03/10 09:00:46 856] tts_purext 845  check ret  0  
+[2020/03/10 09:00:46 857] tts_purext 853  v5vn  
+[2020/03/10 09:00:46 858] tts_purext 926  res_expires is null  
+[2020/03/10 09:00:46 858] tts_purext 1216 vcn  common  
+[2020/03/10 09:00:46 858] auth       86   xtts  app  nil  nil  {"xtts":{"ver":"2","bus":{"forbid":"0","nlimit":2000}}}  
+[2020/03/10 09:00:46 859] auth       227  auth get xtts_res_id  nil  
+[2020/03/10 09:00:46 859] auth       420  nil  
+[2020/03/10 09:00:46 859] tts_purext 1260 fo  /home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet  183  3819600  fo  /home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  128  0  nil  
+[2020/03/10 09:00:46 866] tts_purext 1275 engine init success  
+[2020/03/10 09:00:46 866] tts_purext 662  resource path:  fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet;fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet  
+[2020/03/10 09:00:46 866] tts_purext 678  Disperse res  
+[2020/03/10 09:00:46 866] tts_purext 1338 reinit ret:  0  
+[2020/03/10 09:00:46 866] tts_purext 1058 app auth  
+[2020/03/10 09:00:46 866] auth       687  app  nil  nil  nil  
+[2020/03/10 09:00:46 866] auth       744  ath rquest  {"authorize":[{"ver":"2.1.1","busin":"xtts"}]}  
+[2020/03/10 09:00:46 867] config     91   select default  
+[2020/03/10 09:00:46 867] config     113  use general cloud  
+[2020/03/10 09:00:46 867] transport  645  paramkvsport is   nil  
+[2020/03/10 09:00:46 867] transport  657  ns_enable=  1  
+[2020/03/10 09:00:46 867] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2020/03/10 09:00:46 867] transport  665  net.nettype=  unknown  
+[2020/03/10 09:00:46 867] transport  675  url.full=  nil  
+[2020/03/10 09:00:46 867] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2020/03/10 09:00:46 867] transport  907  net type:  unknown  
+[2020/03/10 09:00:46 867] transport  908  net operator:  def  
+[2020/03/10 09:00:46 867] transport  909  use proxy:  false  
+[2020/03/10 09:00:46 867] auth       799  not login!  
+[2020/03/10 09:00:46 867] auth       636  [session] send auth request  
+[2020/03/10 09:00:46 868] transport  1105 session.domain=  open.xf-yun.com  
+[2020/03/10 09:00:46 868] transport  1106 url.host=  open.xf-yun.com  
+[2020/03/10 09:00:46 868] transport  1083 NAMESERVER START  
+[2020/03/10 09:00:46 868] transport  1086 name =   ath  
+[2020/03/10 09:00:46 868] ns         634  ntt=  unknown  
+[2020/03/10 09:00:46 868] transport  1089 trans,ns_inprog =  0  
+[2020/03/10 09:00:46 868] ns         582  name server start  
+[2020/03/10 09:00:46 868] ns         588  ns_sub =   ath  
+[2020/03/10 09:00:46 868] ns         596  ns_host =   open.xf-yun.com  
+[2020/03/10 09:00:46 868] ns         475  ns_host=  open.xf-yun.com  
+[2020/03/10 09:00:46 868] ns         555  net_type =  standard  
+[2020/03/10 09:00:46 868] ns         556  cmwapascmnet =  
+[2020/03/10 09:00:46 868] ns         557  uniwapasuninet =  
+[2020/03/10 09:00:46 868] ns         558  ctwapasctnet =  
+[2020/03/10 09:00:46 868] ns         576  host=  hdns.xf-yun.com  
+[2020/03/10 09:00:46 868] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2020/03/10 09:00:46 868] auth       643  0  
+[2020/03/10 09:00:46 868] auth       606  lver:  nil  
+[2020/03/10 09:00:46 868] auth       611  cfg_ver:  nil  
+[2020/03/10 09:00:46 868] transport  1860 transport_obj.send | in  
+[2020/03/10 09:00:46 868] transport  1866 self.msg_flag_q  table(38077180) 
+[2020/03/10 09:00:46 868] transport  1867 self.msg_q  table(38052b90) 
+[2020/03/10 09:00:46 868] transport  1799 transport_obj.try2send | in  
+[2020/03/10 09:00:46 868] transport  1800 self.soc  nil  
+[2020/03/10 09:00:46 868] transport  1801 self.connected  false  
+[2020/03/10 09:00:46 868] transport  1802 self.latesterr  0  
+[2020/03/10 09:00:46 868] transport  1873 transport_obj.send | out  
+[2020/03/10 09:00:46 868] tts_purext 1111 forbid_aisound =  0  
+[2020/03/10 09:00:46 868] tts_purext 1385 set voice name:  xiaoguan  
+[2020/03/10 09:00:46 868] tts_purext 1387 set default voice name:  xiaoguan  
+[2020/03/10 09:00:46 869] tts_purext 232  speed increase:  0  1  
+[2020/03/10 09:00:46 869] tts_purext 245  rcn:  0  
+[2020/03/10 09:00:46 869] tts_purext 527  v5vn  
+[2020/03/10 09:00:46 869] tts_purext 550  fit:  false  
+[2020/03/10 09:00:46 869] tts_purext 425  type:  speed  value:  60  weight:  50  double_weight:  100  
+[2020/03/10 09:00:46 869] tts_purext 425  type:  pitch  value:  50  weight:  50  double_weight:  100  
+[2020/03/10 09:00:46 869] tts_purext 425  type:  volume  value:  50  weight:  50  double_weight:  100  
+[2020/03/10 09:00:46 869] tts_purext 454  sample_rate:  528  
+[2020/03/10 09:00:46 869] tts_purext 467  text_encoding:  65001  
+[2020/03/10 09:00:46 869] tts_purext 488  rdn:  1  
+[2020/03/10 09:00:46 869] tts_purext 501  effect:  0  
+[2020/03/10 09:00:46 869] tts_purext 1632 last gc at  1583802046  
+[2020/03/10 09:00:46 869] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2020/03/10 09:00:46 869] tts_purext 1496 base64 =  5pyq6ZqU56a777yM56aB5q2i6YCa6KGM77yB  
+[2020/03/10 09:00:46 869] tts_purext 1523 ttp_audio_id=  1  
+[2020/03/10 09:00:46 869] tts_purext 1632 last gc at  1583802046  
+[2020/03/10 09:00:46 870] network    245  dns resp  0  ns1  
+[2020/03/10 09:00:46 870] ns         422  ns dns ok  42.62.116.35  
+[2020/03/10 09:00:46 870] ns         202  iplist not avail  
+[2020/03/10 09:00:46 871] ns         429  is_voicecloud_ip=  0  
+[2020/03/10 09:00:46 871] ns         436  ip_is_expected=  true  
+[2020/03/10 09:00:46 871] ns         444  ip_is_expected=  true  
+[2020/03/10 09:00:46 871] network    445  gethttpresp2  42.62.116.35  80  ns2  
+[2020/03/10 09:00:46 871] network    465  prot_type  tcp  
+[2020/03/10 09:00:46 871] tts_purext 703  102  0  0  0  nil  1  
+[2020/03/10 09:00:46 871] tts_purext 713  abandon data:  2  102  
+[2020/03/10 09:00:46 877] tts_purext 703  101  528  12  960  udata(3800aee8) 1  
+[2020/03/10 09:00:46 877] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 877] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(3800aee8) 
+[2020/03/10 09:00:46 877] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 878] tts_purext 703  101  528  12  960  udata(3803bb98) 1  
+[2020/03/10 09:00:46 878] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 878] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(3803bb98) 
+[2020/03/10 09:00:46 878] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 897] network    350  connected  ns2  
+[2020/03/10 09:00:46 897] network    353  send ok  268  ns2  
+[2020/03/10 09:00:46 900] tts_purext 703  101  528  12  960  udata(3803b7a8) 1  
+[2020/03/10 09:00:46 900] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 900] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(3803b7a8) 
+[2020/03/10 09:00:46 900] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 901] tts_purext 703  101  528  12  918  udata(38022538) 1  
+[2020/03/10 09:00:46 901] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 901] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  918  ,data:  udata(38022538) 
+[2020/03/10 09:00:46 901] tts_purext 762  before local audiolen:  918  ,ced:  12  
+[2020/03/10 09:00:46 901] tts_purext 703  101  528  12  948  udata(38032e58) 1  
+[2020/03/10 09:00:46 901] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 901] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  948  ,data:  udata(38032e58) 
+[2020/03/10 09:00:46 901] tts_purext 762  before local audiolen:  948  ,ced:  12  
+[2020/03/10 09:00:46 902] tts_purext 703  101  528  12  908  udata(3800a108) 1  
+[2020/03/10 09:00:46 902] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 902] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  908  ,data:  udata(3800a108) 
+[2020/03/10 09:00:46 902] tts_purext 762  before local audiolen:  908  ,ced:  12  
+[2020/03/10 09:00:46 902] tts_purext 703  101  528  12  1024  udata(3800a1b8) 1  
+[2020/03/10 09:00:46 902] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 902] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  1024  ,data:  udata(3800a1b8) 
+[2020/03/10 09:00:46 902] tts_purext 762  before local audiolen:  1024  ,ced:  12  
+[2020/03/10 09:00:46 902] tts_purext 703  101  528  12  990  udata(38053aa8) 1  
+[2020/03/10 09:00:46 902] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 902] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  990  ,data:  udata(38053aa8) 
+[2020/03/10 09:00:46 902] tts_purext 762  before local audiolen:  990  ,ced:  12  
+[2020/03/10 09:00:46 913] tts_purext 703  101  528  12  870  udata(3808b148) 1  
+[2020/03/10 09:00:46 914] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 914] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  870  ,data:  udata(3808b148) 
+[2020/03/10 09:00:46 915] tts_purext 762  before local audiolen:  870  ,ced:  12  
+[2020/03/10 09:00:46 915] tts_purext 703  101  528  12  854  udata(38033698) 1  
+[2020/03/10 09:00:46 915] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 915] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  854  ,data:  udata(38033698) 
+[2020/03/10 09:00:46 915] tts_purext 762  before local audiolen:  854  ,ced:  12  
+[2020/03/10 09:00:46 915] tts_purext 703  101  528  12  994  udata(380624f8) 1  
+[2020/03/10 09:00:46 915] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 915] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  994  ,data:  udata(380624f8) 
+[2020/03/10 09:00:46 915] tts_purext 762  before local audiolen:  994  ,ced:  12  
+[2020/03/10 09:00:46 915] tts_purext 703  101  528  12  1008  udata(38032f88) 1  
+[2020/03/10 09:00:46 915] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 915] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  1008  ,data:  udata(38032f88) 
+[2020/03/10 09:00:46 915] tts_purext 762  before local audiolen:  1008  ,ced:  12  
+[2020/03/10 09:00:46 916] tts_purext 703  101  528  12  874  udata(38081a68) 1  
+[2020/03/10 09:00:46 916] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 916] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  874  ,data:  udata(38081a68) 
+[2020/03/10 09:00:46 916] tts_purext 762  before local audiolen:  874  ,ced:  12  
+[2020/03/10 09:00:46 916] tts_purext 703  101  528  12  890  udata(38009728) 1  
+[2020/03/10 09:00:46 916] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 916] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  890  ,data:  udata(38009728) 
+[2020/03/10 09:00:46 916] tts_purext 762  before local audiolen:  890  ,ced:  12  
+[2020/03/10 09:00:46 916] tts_purext 703  101  528  12  852  udata(3802c9c8) 1  
+[2020/03/10 09:00:46 916] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 916] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  852  ,data:  udata(3802c9c8) 
+[2020/03/10 09:00:46 916] tts_purext 762  before local audiolen:  852  ,ced:  12  
+[2020/03/10 09:00:46 916] tts_purext 703  101  528  12  956  udata(3802caa8) 1  
+[2020/03/10 09:00:46 916] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 916] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  956  ,data:  udata(3802caa8) 
+[2020/03/10 09:00:46 916] tts_purext 762  before local audiolen:  956  ,ced:  12  
+[2020/03/10 09:00:46 921] tts_purext 703  101  528  12  858  udata(3a4f12b8) 1  
+[2020/03/10 09:00:46 921] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 922] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  858  ,data:  udata(3a4f12b8) 
+[2020/03/10 09:00:46 922] tts_purext 762  before local audiolen:  858  ,ced:  12  
+[2020/03/10 09:00:46 922] tts_purext 703  101  528  12  810  udata(3808eae8) 1  
+[2020/03/10 09:00:46 922] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 922] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  810  ,data:  udata(3808eae8) 
+[2020/03/10 09:00:46 922] tts_purext 762  before local audiolen:  810  ,ced:  12  
+[2020/03/10 09:00:46 922] tts_purext 703  101  528  12  960  udata(3802d2d8) 1  
+[2020/03/10 09:00:46 922] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 922] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(3802d2d8) 
+[2020/03/10 09:00:46 922] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 923] tts_purext 703  101  528  12  960  udata(38071498) 1  
+[2020/03/10 09:00:46 923] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 923] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(38071498) 
+[2020/03/10 09:00:46 923] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 923] tts_purext 703  101  528  12  960  udata(3a4ee338) 1  
+[2020/03/10 09:00:46 923] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 923] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(3a4ee338) 
+[2020/03/10 09:00:46 923] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 923] tts_purext 703  101  528  12  960  udata(3a4ee3e8) 1  
+[2020/03/10 09:00:46 923] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 923] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(3a4ee3e8) 
+[2020/03/10 09:00:46 923] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 923] tts_purext 703  101  528  12  960  udata(38009868) 1  
+[2020/03/10 09:00:46 923] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 923] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(38009868) 
+[2020/03/10 09:00:46 923] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 923] tts_purext 703  101  528  12  960  udata(3a4f3588) 1  
+[2020/03/10 09:00:46 923] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 924] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(3a4f3588) 
+[2020/03/10 09:00:46 924] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 924] tts_purext 703  101  528  12  960  udata(3a4f3758) 1  
+[2020/03/10 09:00:46 924] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 924] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  12  ,nSize:  960  ,data:  udata(3a4f3758) 
+[2020/03/10 09:00:46 924] tts_purext 762  before local audiolen:  960  ,ced:  12  
+[2020/03/10 09:00:46 933] tts_purext 703  101  528  27  960  udata(3a4f3528) 1  
+[2020/03/10 09:00:46 933] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 933] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  960  ,data:  udata(3a4f3528) 
+[2020/03/10 09:00:46 933] tts_purext 762  before local audiolen:  960  ,ced:  27  
+[2020/03/10 09:00:46 934] tts_purext 703  101  528  27  960  udata(3a4ee388) 1  
+[2020/03/10 09:00:46 934] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 934] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  960  ,data:  udata(3a4ee388) 
+[2020/03/10 09:00:46 934] tts_purext 762  before local audiolen:  960  ,ced:  27  
+[2020/03/10 09:00:46 934] tts_purext 703  101  528  27  960  udata(3800a288) 1  
+[2020/03/10 09:00:46 934] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 934] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  960  ,data:  udata(3800a288) 
+[2020/03/10 09:00:46 935] tts_purext 762  before local audiolen:  960  ,ced:  27  
+[2020/03/10 09:00:46 935] network    362  readable  ns2  
+[2020/03/10 09:00:46 935] network    366  HTTP/1.1 200 OK
+Date: Tue, 10 Mar 2020 01:00:46 GMT
+Content-Type: application/json
+Content-Length: 307
+Connection: keep-alive
+Server: iflytek/hdns
+
+{"dns":[{"host":"open.xf-yun.com","sip":[{"svc":"ath","ips":[{"ip":"42.62.42.10","port":1028,"idc":"dx"},{"ip":"42.62.42.18","port":80,"idc":"dx"}],"ttl":6000,"compel":0}]}],"default":[{"host":"open.xf-yun.com","sip":[{"svc":"ath","ips":[{"ip":"42.62.42.18","port":80,"idc":"dx"}],"ttl":6000,"compel":0}]}]}  
+[2020/03/10 09:00:46 935] ns         253  name server http resp  0  
+[2020/03/10 09:00:46 935] ns         266  ns response OK for this time!  
+[2020/03/10 09:00:46 935] ns         277  from_server=  iflytek/hdns  
+[2020/03/10 09:00:46 936] ns         360  compel :  0  
+[2020/03/10 09:00:46 936] transport  1063 ns_ip =   42.62.42.10  
+[2020/03/10 09:00:46 936] transport  1064 ip_type =  assigned_athopen.xf-yun.com_host  
+[2020/03/10 09:00:46 936] transport  1304 [soc] connect   42.62.42.10  1028  
+[2020/03/10 09:00:46 936] transport  1316 mspsoc.open,prot_type=  tcp  
+[2020/03/10 09:00:46 937] ns         670  no data in ns_q  
+[2020/03/10 09:00:46 937] ns         671  conti_ns,ns_inprog =   1  
+[2020/03/10 09:00:46 945] tts_purext 703  101  528  27  960  udata(380227f8) 1  
+[2020/03/10 09:00:46 945] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 945] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  960  ,data:  udata(380227f8) 
+[2020/03/10 09:00:46 945] tts_purext 762  before local audiolen:  960  ,ced:  27  
+[2020/03/10 09:00:46 945] tts_purext 703  101  528  27  906  udata(38036e18) 1  
+[2020/03/10 09:00:46 945] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 945] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  906  ,data:  udata(38036e18) 
+[2020/03/10 09:00:46 946] tts_purext 762  before local audiolen:  906  ,ced:  27  
+[2020/03/10 09:00:46 946] tts_purext 703  101  528  27  956  udata(38055348) 1  
+[2020/03/10 09:00:46 946] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 946] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  956  ,data:  udata(38055348) 
+[2020/03/10 09:00:46 946] tts_purext 762  before local audiolen:  956  ,ced:  27  
+[2020/03/10 09:00:46 946] tts_purext 703  101  528  27  942  udata(38036e68) 1  
+[2020/03/10 09:00:46 946] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 946] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  942  ,data:  udata(38036e68) 
+[2020/03/10 09:00:46 946] tts_purext 762  before local audiolen:  942  ,ced:  27  
+[2020/03/10 09:00:46 947] tts_purext 703  101  528  27  888  udata(38053458) 1  
+[2020/03/10 09:00:46 947] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 947] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  888  ,data:  udata(38053458) 
+[2020/03/10 09:00:46 947] tts_purext 762  before local audiolen:  888  ,ced:  27  
+[2020/03/10 09:00:46 947] tts_purext 703  101  528  27  866  udata(3804a468) 1  
+[2020/03/10 09:00:46 947] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 948] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  866  ,data:  udata(3804a468) 
+[2020/03/10 09:00:46 948] tts_purext 762  before local audiolen:  866  ,ced:  27  
+[2020/03/10 09:00:46 951] tts_purext 703  101  528  27  960  udata(380361c8) 1  
+[2020/03/10 09:00:46 951] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 952] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  960  ,data:  udata(380361c8) 
+[2020/03/10 09:00:46 952] tts_purext 762  before local audiolen:  960  ,ced:  27  
+[2020/03/10 09:00:46 952] tts_purext 703  101  528  27  814  udata(380556c8) 1  
+[2020/03/10 09:00:46 952] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 952] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  814  ,data:  udata(380556c8) 
+[2020/03/10 09:00:46 952] tts_purext 762  before local audiolen:  814  ,ced:  27  
+[2020/03/10 09:00:46 952] tts_purext 703  101  528  27  874  udata(380364c8) 1  
+[2020/03/10 09:00:46 952] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 953] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  874  ,data:  udata(380364c8) 
+[2020/03/10 09:00:46 953] tts_purext 762  before local audiolen:  874  ,ced:  27  
+[2020/03/10 09:00:46 953] tts_purext 703  101  528  27  880  udata(380550d8) 1  
+[2020/03/10 09:00:46 953] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 953] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  880  ,data:  udata(380550d8) 
+[2020/03/10 09:00:46 953] tts_purext 762  before local audiolen:  880  ,ced:  27  
+[2020/03/10 09:00:46 955] tts_purext 703  101  528  27  950  udata(38036aa8) 1  
+[2020/03/10 09:00:46 955] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 955] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  950  ,data:  udata(38036aa8) 
+[2020/03/10 09:00:46 955] tts_purext 762  before local audiolen:  950  ,ced:  27  
+[2020/03/10 09:00:46 962] tts_purext 703  101  528  27  960  udata(38036a58) 1  
+[2020/03/10 09:00:46 962] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 962] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  960  ,data:  udata(38036a58) 
+[2020/03/10 09:00:46 962] tts_purext 762  before local audiolen:  960  ,ced:  27  
+[2020/03/10 09:00:46 962] tts_purext 703  101  528  27  880  udata(38036968) 1  
+[2020/03/10 09:00:46 962] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 962] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  880  ,data:  udata(38036968) 
+[2020/03/10 09:00:46 962] tts_purext 762  before local audiolen:  880  ,ced:  27  
+[2020/03/10 09:00:46 963] tts_purext 703  101  528  27  940  udata(38036b88) 1  
+[2020/03/10 09:00:46 963] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 963] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  940  ,data:  udata(38036b88) 
+[2020/03/10 09:00:46 963] tts_purext 762  before local audiolen:  940  ,ced:  27  
+[2020/03/10 09:00:46 963] tts_purext 703  101  528  27  998  udata(380230a8) 1  
+[2020/03/10 09:00:46 963] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 963] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  998  ,data:  udata(380230a8) 
+[2020/03/10 09:00:46 963] tts_purext 762  before local audiolen:  998  ,ced:  27  
+[2020/03/10 09:00:46 967] transport  473  [soc] [1] connected  
+[2020/03/10 09:00:46 967] transport  1799 transport_obj.try2send | in  
+[2020/03/10 09:00:46 967] transport  1800 self.soc  udata(380341f8) 
+[2020/03/10 09:00:46 967] transport  1801 self.connected  true  
+[2020/03/10 09:00:46 967] transport  1802 self.latesterr  0  
+[2020/03/10 09:00:46 967] transport  1819 transport:try2send,#msg_q=  1  
+[2020/03/10 09:00:46 968] transport  1359 build http request.  
+[2020/03/10 09:00:46 968] transport  1476 POST /msp.do HTTP/1.1
+X-Sub: auth
+X-Par: ver=MSSP+0%2E9&sub=auth&cmd=rath&key=08QAvvCOCASW0=
+Host: open.xf-yun.com
+CT: multipart/mixed;boundary=--
+CL: 359
+
+----
+Content-Length:48
+Content-Type:text/appinfo
+Content-Encoding:gzip
+
+36
+xœËN­´561KI5´45N¶L364·47I56L´4´0NIL53O  
+[2020/03/10 09:00:46 968] transport  1819 transport:try2send,#msg_q=  0  
+[2020/03/10 09:00:46 968] transport  482  [soc] [1] send ok  522  
+[2020/03/10 09:00:46 968] transport  1799 transport_obj.try2send | in  
+[2020/03/10 09:00:46 968] transport  1800 self.soc  udata(380341f8) 
+[2020/03/10 09:00:46 968] transport  1801 self.connected  true  
+[2020/03/10 09:00:46 968] transport  1802 self.latesterr  0  
+[2020/03/10 09:00:46 968] transport  1819 transport:try2send,#msg_q=  0  
+[2020/03/10 09:00:46 971] tts_purext 703  101  528  27  732  udata(3802a408) 1  
+[2020/03/10 09:00:46 971] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 971] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  732  ,data:  udata(3802a408) 
+[2020/03/10 09:00:46 971] tts_purext 762  before local audiolen:  732  ,ced:  27  
+[2020/03/10 09:00:46 972] tts_purext 703  101  528  27  960  udata(3803a9a8) 1  
+[2020/03/10 09:00:46 972] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 972] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  960  ,data:  udata(3803a9a8) 
+[2020/03/10 09:00:46 972] tts_purext 762  before local audiolen:  960  ,ced:  27  
+[2020/03/10 09:00:46 975] tts_purext 703  101  528  27  960  udata(3a4ee5c8) 1  
+[2020/03/10 09:00:46 975] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 975] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  960  ,data:  udata(3a4ee5c8) 
+[2020/03/10 09:00:46 976] tts_purext 762  before local audiolen:  960  ,ced:  27  
+[2020/03/10 09:00:46 976] tts_purext 703  101  528  27  872  udata(3802ce48) 1  
+[2020/03/10 09:00:46 976] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 976] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  872  ,data:  udata(3802ce48) 
+[2020/03/10 09:00:46 976] tts_purext 762  before local audiolen:  872  ,ced:  27  
+[2020/03/10 09:00:46 976] tts_purext 703  101  528  27  1006  udata(3a4ee938) 1  
+[2020/03/10 09:00:46 976] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 976] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  1006  ,data:  udata(3a4ee938) 
+[2020/03/10 09:00:46 976] tts_purext 762  before local audiolen:  1006  ,ced:  27  
+[2020/03/10 09:00:46 976] tts_purext 703  101  528  27  920  udata(3a4ee658) 1  
+[2020/03/10 09:00:46 977] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 977] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  920  ,data:  udata(3a4ee658) 
+[2020/03/10 09:00:46 977] tts_purext 762  before local audiolen:  920  ,ced:  27  
+[2020/03/10 09:00:46 977] tts_purext 703  101  528  27  952  udata(38062738) 1  
+[2020/03/10 09:00:46 977] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 977] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  952  ,data:  udata(38062738) 
+[2020/03/10 09:00:46 977] tts_purext 762  before local audiolen:  952  ,ced:  27  
+[2020/03/10 09:00:46 977] tts_purext 703  101  528  27  1002  udata(3800add8) 1  
+[2020/03/10 09:00:46 977] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 977] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  1002  ,data:  udata(3800add8) 
+[2020/03/10 09:00:46 977] tts_purext 762  before local audiolen:  1002  ,ced:  27  
+[2020/03/10 09:00:46 978] tts_purext 703  101  528  27  1024  udata(38090538) 1  
+[2020/03/10 09:00:46 978] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 978] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  1024  ,data:  udata(38090538) 
+[2020/03/10 09:00:46 978] tts_purext 762  before local audiolen:  1024  ,ced:  27  
+[2020/03/10 09:00:46 978] tts_purext 703  101  528  27  8224  udata(38051d08) 1  
+[2020/03/10 09:00:46 978] tts_purext 713  abandon data:  2  101  
+[2020/03/10 09:00:46 978] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  27  ,nSize:  8224  ,data:  udata(38051d08) 
+[2020/03/10 09:00:46 978] tts_purext 762  before local audiolen:  8224  ,ced:  27  
+[2020/03/10 09:00:46 978] tts_purext 703  103  0  0  0  nil  1  
+[2020/03/10 09:00:46 978] tts_purext 713  abandon data:  2  103  
+[2020/03/10 09:00:46 978] tts_purext 740  TTS_PUREXTTS_CB_END  0  nil  
+[2020/03/10 09:00:46 981] tts_purext 1539 TTS_PUREXTTS_MSG_END  0  
+[2020/03/10 09:00:46 982] tts_purext 943  plog_process  []  nil  
+[2020/03/10 09:00:46 987] tts_purext 1632 last gc at  1583802046  
+[2020/03/10 09:00:46 987] tts_purext 1597 SYS_MSG_SHUTDOWN_LOCAL  
+[2020/03/10 09:00:46 987] tts_purext 1632 last gc at  1583802046  

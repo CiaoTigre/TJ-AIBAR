@@ -1,0 +1,1628 @@
+============================================================
+Time  2020/03/10 08:59:46 013 
+============================================================
+[2020/03/10 08:59:46 013] tts        811  SYS_MSG_REGCB param0 =  msp_status_cb  param1 =  func(24012ca0) 
+[2020/03/10 08:59:46 014] config     43   use general cloud  
+[2020/03/10 08:59:46 015] tts_cloud  1438 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(24012ca0) 
+[2020/03/10 08:59:46 015] tts        782  TTS_MSG_SSB  
+[2020/03/10 08:59:46 015] tts        434  params =  engine_type = purextts,voice_name=xiaoguan, text_encoding = UTF8, tts_res_path = fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/xiaoguan.jet;fo|/home/aibar/intelligentvoiceordering/demo_aiui_iat_tts/bin/msc/res/tts/common.jet, sample_rate = 16000, speed = 60, volume = 50, pitch = 50, rdn = 2  
+[2020/03/10 08:59:46 015] tts        273  auf=audio/L16;rate=16000  
+[2020/03/10 08:59:46 015] tts        273  auf=audio/L16;rate=16000  
+[2020/03/10 08:59:46 015] tts        499  ssb|use purextts  
+[2020/03/10 08:59:46 015] tts        406  purextts_session_begin  
+[2020/03/10 08:59:46 016] tts        416  audio_id=  1  
+[2020/03/10 08:59:46 016] tts        789  TTS_MSG_SYN  0  
+[2020/03/10 08:59:46 016] tts        532  synth|use purextts  
+[2020/03/10 08:59:46 016] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 016] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 016] tts        671  0  nil  1  1814939785  
+[2020/03/10 08:59:46 016] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 016] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 016] tts        671  0  nil  1  1814939786  
+[2020/03/10 08:59:46 017] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 017] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 017] tts        671  0  nil  1  1814939786  
+[2020/03/10 08:59:46 017] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 017] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 017] tts        671  0  nil  1  1814939786  
+[2020/03/10 08:59:46 017] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 017] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 017] tts        671  0  nil  1  1814939786  
+[2020/03/10 08:59:46 017] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 017] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 017] tts        671  0  nil  1  1814939787  
+[2020/03/10 08:59:46 017] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 017] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 017] tts        671  0  nil  1  1814939787  
+[2020/03/10 08:59:46 018] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 018] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 018] tts        671  0  nil  1  1814939787  
+[2020/03/10 08:59:46 018] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 018] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 018] tts        671  0  nil  1  1814939787  
+[2020/03/10 08:59:46 018] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 018] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 018] tts        671  0  nil  1  1814939787  
+[2020/03/10 08:59:46 018] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 018] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 018] tts        671  0  nil  1  1814939788  
+[2020/03/10 08:59:46 019] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 019] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 019] tts        671  0  nil  1  1814939788  
+[2020/03/10 08:59:46 019] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 019] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 019] tts        671  0  nil  1  1814939788  
+[2020/03/10 08:59:46 021] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 021] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 021] tts        671  0  nil  1  1814939790  
+[2020/03/10 08:59:46 021] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 021] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 022] tts        671  0  nil  1  1814939791  
+[2020/03/10 08:59:46 022] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 022] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 022] tts        671  0  nil  1  1814939791  
+[2020/03/10 08:59:46 022] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 022] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 022] tts        671  0  nil  1  1814939791  
+[2020/03/10 08:59:46 022] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 022] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 022] tts        671  0  nil  1  1814939792  
+[2020/03/10 08:59:46 026] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 026] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 026] tts        671  0  nil  1  1814939795  
+[2020/03/10 08:59:46 026] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 026] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 026] tts        671  0  nil  1  1814939795  
+[2020/03/10 08:59:46 027] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 027] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 027] tts        671  0  nil  1  1814939796  
+[2020/03/10 08:59:46 027] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 027] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 027] tts        671  0  nil  1  1814939796  
+[2020/03/10 08:59:46 027] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 027] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 027] tts        671  0  nil  1  1814939796  
+[2020/03/10 08:59:46 027] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 027] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 027] tts        671  0  nil  1  1814939797  
+[2020/03/10 08:59:46 028] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 028] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 028] tts        671  0  nil  1  1814939797  
+[2020/03/10 08:59:46 028] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 028] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 028] tts        671  0  nil  1  1814939797  
+[2020/03/10 08:59:46 028] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 028] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 028] tts        671  0  nil  1  1814939798  
+[2020/03/10 08:59:46 028] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 029] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 029] tts        671  0  nil  1  1814939798  
+[2020/03/10 08:59:46 029] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 029] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 029] tts        671  0  nil  1  1814939798  
+[2020/03/10 08:59:46 029] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 029] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 029] tts        671  0  nil  1  1814939798  
+[2020/03/10 08:59:46 029] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 029] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 029] tts        671  0  nil  1  1814939798  
+[2020/03/10 08:59:46 029] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 029] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 029] tts        671  0  nil  1  1814939799  
+[2020/03/10 08:59:46 029] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 029] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 029] tts        671  0  nil  1  1814939799  
+[2020/03/10 08:59:46 030] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 030] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 030] tts        671  0  nil  1  1814939799  
+[2020/03/10 08:59:46 030] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 030] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 030] tts        671  0  nil  1  1814939799  
+[2020/03/10 08:59:46 030] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 030] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 030] tts        671  0  nil  1  1814939799  
+[2020/03/10 08:59:46 030] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 030] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 030] tts        671  0  nil  1  1814939800  
+[2020/03/10 08:59:46 031] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 031] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 031] tts        671  0  nil  1  1814939800  
+[2020/03/10 08:59:46 031] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 031] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 031] tts        671  0  nil  1  1814939800  
+[2020/03/10 08:59:46 031] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 031] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 031] tts        671  0  nil  1  1814939800  
+[2020/03/10 08:59:46 031] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 031] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 031] tts        671  0  nil  1  1814939801  
+[2020/03/10 08:59:46 032] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 032] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 032] tts        671  0  nil  1  1814939801  
+[2020/03/10 08:59:46 032] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 032] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 032] tts        671  0  nil  1  1814939801  
+[2020/03/10 08:59:46 032] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 032] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 032] tts        671  0  nil  1  1814939801  
+[2020/03/10 08:59:46 032] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 032] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 032] tts        671  0  nil  1  1814939802  
+[2020/03/10 08:59:46 033] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 033] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 033] tts        671  0  nil  1  1814939802  
+[2020/03/10 08:59:46 033] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 033] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 033] tts        671  0  nil  1  1814939802  
+[2020/03/10 08:59:46 033] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 033] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 033] tts        671  0  nil  1  1814939802  
+[2020/03/10 08:59:46 033] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 034] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 034] tts        671  0  nil  1  1814939803  
+[2020/03/10 08:59:46 034] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 034] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 034] tts        671  0  nil  1  1814939803  
+[2020/03/10 08:59:46 034] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 034] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 035] tts        671  0  nil  1  1814939804  
+[2020/03/10 08:59:46 035] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 035] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 035] tts        671  0  nil  1  1814939804  
+[2020/03/10 08:59:46 035] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 035] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 036] tts        671  0  nil  1  1814939805  
+[2020/03/10 08:59:46 036] tts        338  TTS_PUREXTTS_CB_BEGIN  
+[2020/03/10 08:59:46 036] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 036] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 036] tts        671  0  nil  1  1814939805  
+[2020/03/10 08:59:46 036] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 036] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 036] tts        671  0  nil  1  1814939805  
+[2020/03/10 08:59:46 036] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 036] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 036] tts        671  0  nil  1  1814939806  
+[2020/03/10 08:59:46 037] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 037] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 037] tts        671  0  nil  1  1814939806  
+[2020/03/10 08:59:46 037] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 037] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 037] tts        671  0  nil  1  1814939806  
+[2020/03/10 08:59:46 037] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 037] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 037] tts        671  0  nil  1  1814939806  
+[2020/03/10 08:59:46 037] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 037] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 037] tts        671  0  nil  1  1814939806  
+[2020/03/10 08:59:46 037] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 037] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 037] tts        671  0  nil  1  1814939807  
+[2020/03/10 08:59:46 038] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 038] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 038] tts        671  0  nil  1  1814939807  
+[2020/03/10 08:59:46 038] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 038] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 038] tts        671  0  nil  1  1814939807  
+[2020/03/10 08:59:46 038] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 038] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 038] tts        671  0  nil  1  1814939807  
+[2020/03/10 08:59:46 038] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 038] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 038] tts        671  0  nil  1  1814939807  
+[2020/03/10 08:59:46 038] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 038] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 038] tts        671  0  nil  1  1814939808  
+[2020/03/10 08:59:46 039] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 039] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 039] tts        671  0  nil  1  1814939808  
+[2020/03/10 08:59:46 039] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 039] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 039] tts        671  0  nil  1  1814939808  
+[2020/03/10 08:59:46 039] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 039] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 039] tts        671  0  nil  1  1814939808  
+[2020/03/10 08:59:46 039] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 039] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 039] tts        671  0  nil  1  1814939808  
+[2020/03/10 08:59:46 039] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 039] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 039] tts        671  0  nil  1  1814939809  
+[2020/03/10 08:59:46 040] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 040] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 040] tts        671  0  nil  1  1814939809  
+[2020/03/10 08:59:46 040] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 040] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 040] tts        671  0  nil  1  1814939809  
+[2020/03/10 08:59:46 040] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 040] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 040] tts        671  0  nil  1  1814939809  
+[2020/03/10 08:59:46 041] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 041] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 041] tts        671  0  nil  1  1814939810  
+[2020/03/10 08:59:46 041] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 041] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 041] tts        671  0  nil  1  1814939810  
+[2020/03/10 08:59:46 041] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 041] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 041] tts        671  0  nil  1  1814939810  
+[2020/03/10 08:59:46 041] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 041] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 041] tts        671  0  nil  1  1814939811  
+[2020/03/10 08:59:46 041] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 042] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 042] tts        671  0  nil  1  1814939811  
+[2020/03/10 08:59:46 042] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 042] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 042] tts        671  0  nil  1  1814939811  
+[2020/03/10 08:59:46 042] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 042] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 042] tts        671  0  nil  1  1814939811  
+[2020/03/10 08:59:46 042] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 042] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 042] tts        671  0  nil  1  1814939811  
+[2020/03/10 08:59:46 042] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 042] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 042] tts        671  0  nil  1  1814939812  
+[2020/03/10 08:59:46 043] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 043] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 043] tts        671  0  nil  1  1814939812  
+[2020/03/10 08:59:46 043] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 043] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 043] tts        671  0  nil  1  1814939812  
+[2020/03/10 08:59:46 045] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 045] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 045] tts        671  0  nil  1  1814939814  
+[2020/03/10 08:59:46 045] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 045] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 045] tts        671  0  nil  1  1814939814  
+[2020/03/10 08:59:46 045] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 045] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 045] tts        671  0  nil  1  1814939814  
+[2020/03/10 08:59:46 045] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 045] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 045] tts        671  0  nil  1  1814939815  
+[2020/03/10 08:59:46 045] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 046] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 046] tts        671  0  nil  1  1814939815  
+[2020/03/10 08:59:46 046] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 046] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 046] tts        671  0  nil  1  1814939815  
+[2020/03/10 08:59:46 046] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 046] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 046] tts        671  0  nil  1  1814939815  
+[2020/03/10 08:59:46 046] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 047] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 047] tts        671  0  nil  1  1814939816  
+[2020/03/10 08:59:46 047] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24056e98) 27  
+[2020/03/10 08:59:46 047] tts        354  udata(24056e98) 27  
+[2020/03/10 08:59:46 047] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24274728) 27  
+[2020/03/10 08:59:46 047] tts        354  udata(24274728) 27  
+[2020/03/10 08:59:46 047] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 047] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 047] tts        649  960  
+[2020/03/10 08:59:46 047] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 047] tts        671  0  udata(24058418) 1  1814939816  
+[2020/03/10 08:59:46 047] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(240588e8) 27  
+[2020/03/10 08:59:46 047] tts        354  udata(240588e8) 27  
+[2020/03/10 08:59:46 047] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 047] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 047] tts        649  960  
+[2020/03/10 08:59:46 048] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 048] tts        671  0  udata(24057d28) 1  1814939817  
+[2020/03/10 08:59:46 048] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 048] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 048] tts        649  960  
+[2020/03/10 08:59:46 048] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 048] tts        671  0  udata(24057ee8) 1  1814939817  
+[2020/03/10 08:59:46 048] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 048] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 048] tts        671  0  nil  1  1814939817  
+[2020/03/10 08:59:46 048] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 048] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 048] tts        671  0  nil  1  1814939818  
+[2020/03/10 08:59:46 048] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 048] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 048] tts        671  0  nil  1  1814939818  
+[2020/03/10 08:59:46 049] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 049] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 049] tts        671  0  nil  1  1814939818  
+[2020/03/10 08:59:46 049] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 049] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 049] tts        671  0  nil  1  1814939818  
+[2020/03/10 08:59:46 049] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 049] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 049] tts        671  0  nil  1  1814939818  
+[2020/03/10 08:59:46 049] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 049] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 049] tts        671  0  nil  1  1814939819  
+[2020/03/10 08:59:46 049] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 049] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 050] tts        671  0  nil  1  1814939819  
+[2020/03/10 08:59:46 050] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 050] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 050] tts        671  0  nil  1  1814939819  
+[2020/03/10 08:59:46 050] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 050] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 050] tts        671  0  nil  1  1814939819  
+[2020/03/10 08:59:46 050] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 050] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 050] tts        671  0  nil  1  1814939819  
+[2020/03/10 08:59:46 050] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 050] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 050] tts        671  0  nil  1  1814939820  
+[2020/03/10 08:59:46 050] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 051] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 051] tts        671  0  nil  1  1814939820  
+[2020/03/10 08:59:46 051] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 051] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 051] tts        671  0  nil  1  1814939820  
+[2020/03/10 08:59:46 051] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24057f38) 27  
+[2020/03/10 08:59:46 051] tts        354  udata(24057f38) 27  
+[2020/03/10 08:59:46 051] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 051] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 051] tts        649  898  
+[2020/03/10 08:59:46 051] tts        653  local audiolen:  898  ,ced:  27  
+[2020/03/10 08:59:46 052] tts        671  0  udata(24058938) 1  1814939821  
+[2020/03/10 08:59:46 052] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(240589e8) 27  
+[2020/03/10 08:59:46 052] tts        354  udata(240589e8) 27  
+[2020/03/10 08:59:46 052] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 052] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 052] tts        649  966  
+[2020/03/10 08:59:46 052] tts        653  local audiolen:  966  ,ced:  27  
+[2020/03/10 08:59:46 052] tts        671  0  udata(24276548) 1  1814939821  
+[2020/03/10 08:59:46 052] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242769d8) 27  
+[2020/03/10 08:59:46 052] tts        354  udata(242769d8) 27  
+[2020/03/10 08:59:46 052] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 052] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 053] tts        649  952  
+[2020/03/10 08:59:46 053] tts        653  local audiolen:  952  ,ced:  27  
+[2020/03/10 08:59:46 053] tts        671  0  udata(24058a88) 1  1814939822  
+[2020/03/10 08:59:46 053] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24058ad8) 27  
+[2020/03/10 08:59:46 053] tts        354  udata(24058ad8) 27  
+[2020/03/10 08:59:46 053] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 053] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 053] tts        649  1024  
+[2020/03/10 08:59:46 053] tts        653  local audiolen:  1024  ,ced:  27  
+[2020/03/10 08:59:46 053] tts        671  0  udata(24056f98) 1  1814939822  
+[2020/03/10 08:59:46 053] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 053] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 053] tts        671  0  nil  1  1814939822  
+[2020/03/10 08:59:46 053] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 053] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 053] tts        671  0  nil  1  1814939823  
+[2020/03/10 08:59:46 053] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 053] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 053] tts        671  0  nil  1  1814939823  
+[2020/03/10 08:59:46 054] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 054] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 054] tts        671  0  nil  1  1814939823  
+[2020/03/10 08:59:46 054] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 054] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 054] tts        671  0  nil  1  1814939823  
+[2020/03/10 08:59:46 054] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 054] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 054] tts        671  0  nil  1  1814939823  
+[2020/03/10 08:59:46 054] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 054] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 054] tts        671  0  nil  1  1814939823  
+[2020/03/10 08:59:46 054] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 054] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 054] tts        671  0  nil  1  1814939823  
+[2020/03/10 08:59:46 054] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 054] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 054] tts        671  0  nil  1  1814939824  
+[2020/03/10 08:59:46 055] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 055] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 055] tts        671  0  nil  1  1814939824  
+[2020/03/10 08:59:46 055] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 055] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 055] tts        671  0  nil  1  1814939824  
+[2020/03/10 08:59:46 055] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 055] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 055] tts        671  0  nil  1  1814939824  
+[2020/03/10 08:59:46 055] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 055] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 055] tts        671  0  nil  1  1814939824  
+[2020/03/10 08:59:46 055] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 055] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 055] tts        671  0  nil  1  1814939824  
+[2020/03/10 08:59:46 055] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 055] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 055] tts        671  0  nil  1  1814939825  
+[2020/03/10 08:59:46 059] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 059] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 059] tts        671  0  nil  1  1814939828  
+[2020/03/10 08:59:46 059] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24057078) 27  
+[2020/03/10 08:59:46 059] tts        354  udata(24057078) 27  
+[2020/03/10 08:59:46 059] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 059] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 059] tts        649  914  
+[2020/03/10 08:59:46 059] tts        653  local audiolen:  914  ,ced:  27  
+[2020/03/10 08:59:46 059] tts        671  0  udata(24015568) 1  1814939828  
+[2020/03/10 08:59:46 059] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 059] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 059] tts        671  0  nil  1  1814939829  
+[2020/03/10 08:59:46 060] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 060] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 060] tts        671  0  nil  1  1814939829  
+[2020/03/10 08:59:46 060] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 060] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 060] tts        671  0  nil  1  1814939829  
+[2020/03/10 08:59:46 060] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 060] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 060] tts        671  0  nil  1  1814939829  
+[2020/03/10 08:59:46 060] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 060] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 060] tts        671  0  nil  1  1814939830  
+[2020/03/10 08:59:46 061] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 061] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 061] tts        671  0  nil  1  1814939830  
+[2020/03/10 08:59:46 061] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 061] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 061] tts        671  0  nil  1  1814939830  
+[2020/03/10 08:59:46 061] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 061] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 061] tts        671  0  nil  1  1814939830  
+[2020/03/10 08:59:46 061] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 061] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 061] tts        671  0  nil  1  1814939830  
+[2020/03/10 08:59:46 061] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 061] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 061] tts        671  0  nil  1  1814939831  
+[2020/03/10 08:59:46 062] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 062] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 062] tts        671  0  nil  1  1814939831  
+[2020/03/10 08:59:46 062] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 062] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 062] tts        671  0  nil  1  1814939831  
+[2020/03/10 08:59:46 062] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 062] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 062] tts        671  0  nil  1  1814939831  
+[2020/03/10 08:59:46 062] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 062] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 062] tts        671  0  nil  1  1814939831  
+[2020/03/10 08:59:46 062] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 062] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 062] tts        671  0  nil  1  1814939832  
+[2020/03/10 08:59:46 063] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 063] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 063] tts        671  0  nil  1  1814939832  
+[2020/03/10 08:59:46 063] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24058bd8) 27  
+[2020/03/10 08:59:46 063] tts        354  udata(24058bd8) 27  
+[2020/03/10 08:59:46 063] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 063] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 063] tts        649  960  
+[2020/03/10 08:59:46 063] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 063] tts        671  0  udata(24058108) 1  1814939832  
+[2020/03/10 08:59:46 064] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 064] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 064] tts        671  0  nil  1  1814939833  
+[2020/03/10 08:59:46 064] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 064] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 064] tts        671  0  nil  1  1814939833  
+[2020/03/10 08:59:46 064] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 064] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 064] tts        671  0  nil  1  1814939833  
+[2020/03/10 08:59:46 064] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 064] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 064] tts        671  0  nil  1  1814939833  
+[2020/03/10 08:59:46 064] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 064] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 064] tts        671  0  nil  1  1814939834  
+[2020/03/10 08:59:46 065] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 065] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 065] tts        671  0  nil  1  1814939834  
+[2020/03/10 08:59:46 065] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 065] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 065] tts        671  0  nil  1  1814939834  
+[2020/03/10 08:59:46 065] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 065] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 065] tts        671  0  nil  1  1814939834  
+[2020/03/10 08:59:46 065] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 065] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 065] tts        671  0  nil  1  1814939834  
+[2020/03/10 08:59:46 065] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 065] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 065] tts        671  0  nil  1  1814939835  
+[2020/03/10 08:59:46 065] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 065] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 066] tts        671  0  nil  1  1814939835  
+[2020/03/10 08:59:46 066] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 066] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 066] tts        671  0  nil  1  1814939835  
+[2020/03/10 08:59:46 066] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 066] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 066] tts        671  0  nil  1  1814939835  
+[2020/03/10 08:59:46 066] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 066] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 066] tts        671  0  nil  1  1814939835  
+[2020/03/10 08:59:46 066] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 066] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 066] tts        671  0  nil  1  1814939836  
+[2020/03/10 08:59:46 066] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 066] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 067] tts        671  0  nil  1  1814939836  
+[2020/03/10 08:59:46 067] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 067] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 067] tts        671  0  nil  1  1814939836  
+[2020/03/10 08:59:46 067] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 067] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 067] tts        671  0  nil  1  1814939836  
+[2020/03/10 08:59:46 067] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 067] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 067] tts        671  0  nil  1  1814939836  
+[2020/03/10 08:59:46 067] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 067] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 067] tts        671  0  nil  1  1814939836  
+[2020/03/10 08:59:46 067] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 067] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 067] tts        671  0  nil  1  1814939837  
+[2020/03/10 08:59:46 068] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 068] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 068] tts        671  0  nil  1  1814939837  
+[2020/03/10 08:59:46 068] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 068] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 068] tts        671  0  nil  1  1814939837  
+[2020/03/10 08:59:46 068] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 068] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 068] tts        671  0  nil  1  1814939837  
+[2020/03/10 08:59:46 068] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 068] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 068] tts        671  0  nil  1  1814939837  
+[2020/03/10 08:59:46 068] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 068] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 068] tts        671  0  nil  1  1814939838  
+[2020/03/10 08:59:46 068] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 068] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 069] tts        671  0  nil  1  1814939838  
+[2020/03/10 08:59:46 069] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 069] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 069] tts        671  0  nil  1  1814939838  
+[2020/03/10 08:59:46 069] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 069] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 069] tts        671  0  nil  1  1814939838  
+[2020/03/10 08:59:46 069] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 069] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 069] tts        671  0  nil  1  1814939839  
+[2020/03/10 08:59:46 069] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 069] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 070] tts        671  0  nil  1  1814939839  
+[2020/03/10 08:59:46 070] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 070] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 070] tts        671  0  nil  1  1814939839  
+[2020/03/10 08:59:46 070] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 070] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 070] tts        671  0  nil  1  1814939839  
+[2020/03/10 08:59:46 070] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 070] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 070] tts        671  0  nil  1  1814939839  
+[2020/03/10 08:59:46 070] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 070] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 070] tts        671  0  nil  1  1814939839  
+[2020/03/10 08:59:46 070] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 070] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 070] tts        671  0  nil  1  1814939840  
+[2020/03/10 08:59:46 071] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 071] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 071] tts        671  0  nil  1  1814939840  
+[2020/03/10 08:59:46 071] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 071] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 071] tts        671  0  nil  1  1814939840  
+[2020/03/10 08:59:46 071] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 071] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 071] tts        671  0  nil  1  1814939840  
+[2020/03/10 08:59:46 071] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 071] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 071] tts        671  0  nil  1  1814939840  
+[2020/03/10 08:59:46 071] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 071] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 071] tts        671  0  nil  1  1814939840  
+[2020/03/10 08:59:46 071] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 071] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 071] tts        671  0  nil  1  1814939841  
+[2020/03/10 08:59:46 071] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 071] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 071] tts        671  0  nil  1  1814939841  
+[2020/03/10 08:59:46 072] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 072] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 072] tts        671  0  nil  1  1814939841  
+[2020/03/10 08:59:46 072] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 072] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 072] tts        671  0  nil  1  1814939841  
+[2020/03/10 08:59:46 072] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 072] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 072] tts        671  0  nil  1  1814939841  
+[2020/03/10 08:59:46 072] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 072] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 072] tts        671  0  nil  1  1814939841  
+[2020/03/10 08:59:46 072] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 072] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 072] tts        671  0  nil  1  1814939841  
+[2020/03/10 08:59:46 072] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 072] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 072] tts        671  0  nil  1  1814939842  
+[2020/03/10 08:59:46 072] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 072] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 072] tts        671  0  nil  1  1814939842  
+[2020/03/10 08:59:46 073] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 073] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 073] tts        671  0  nil  1  1814939842  
+[2020/03/10 08:59:46 073] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 073] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 073] tts        671  0  nil  1  1814939842  
+[2020/03/10 08:59:46 075] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 075] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 075] tts        671  0  nil  1  1814939844  
+[2020/03/10 08:59:46 075] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 075] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 075] tts        671  0  nil  1  1814939844  
+[2020/03/10 08:59:46 075] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 075] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 075] tts        671  0  nil  1  1814939844  
+[2020/03/10 08:59:46 075] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 075] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 075] tts        671  0  nil  1  1814939844  
+[2020/03/10 08:59:46 075] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 075] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 075] tts        671  0  nil  1  1814939844  
+[2020/03/10 08:59:46 075] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 075] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 075] tts        671  0  nil  1  1814939845  
+[2020/03/10 08:59:46 075] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 075] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 075] tts        671  0  nil  1  1814939845  
+[2020/03/10 08:59:46 076] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 076] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 076] tts        671  0  nil  1  1814939845  
+[2020/03/10 08:59:46 076] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 076] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 076] tts        671  0  nil  1  1814939845  
+[2020/03/10 08:59:46 076] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 076] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 076] tts        671  0  nil  1  1814939845  
+[2020/03/10 08:59:46 076] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 076] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 076] tts        671  0  nil  1  1814939845  
+[2020/03/10 08:59:46 076] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 076] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 076] tts        671  0  nil  1  1814939846  
+[2020/03/10 08:59:46 076] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 076] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 076] tts        671  0  nil  1  1814939846  
+[2020/03/10 08:59:46 077] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 077] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 077] tts        671  0  nil  1  1814939846  
+[2020/03/10 08:59:46 077] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 077] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 077] tts        671  0  nil  1  1814939846  
+[2020/03/10 08:59:46 077] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 077] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 077] tts        671  0  nil  1  1814939846  
+[2020/03/10 08:59:46 077] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 077] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 077] tts        671  0  nil  1  1814939846  
+[2020/03/10 08:59:46 077] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 077] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 077] tts        671  0  nil  1  1814939847  
+[2020/03/10 08:59:46 077] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 077] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 078] tts        671  0  nil  1  1814939847  
+[2020/03/10 08:59:46 078] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 078] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 078] tts        671  0  nil  1  1814939847  
+[2020/03/10 08:59:46 078] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 078] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 078] tts        671  0  nil  1  1814939847  
+[2020/03/10 08:59:46 078] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 078] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 078] tts        671  0  nil  1  1814939847  
+[2020/03/10 08:59:46 078] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 078] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 078] tts        671  0  nil  1  1814939847  
+[2020/03/10 08:59:46 078] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 078] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 078] tts        671  0  nil  1  1814939848  
+[2020/03/10 08:59:46 079] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 079] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 079] tts        671  0  nil  1  1814939848  
+[2020/03/10 08:59:46 079] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 079] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 079] tts        671  0  nil  1  1814939848  
+[2020/03/10 08:59:46 079] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 079] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 079] tts        671  0  nil  1  1814939849  
+[2020/03/10 08:59:46 079] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 080] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 080] tts        671  0  nil  1  1814939849  
+[2020/03/10 08:59:46 080] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 080] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 080] tts        671  0  nil  1  1814939849  
+[2020/03/10 08:59:46 080] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 080] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 080] tts        671  0  nil  1  1814939849  
+[2020/03/10 08:59:46 080] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 080] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 080] tts        671  0  nil  1  1814939850  
+[2020/03/10 08:59:46 080] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 080] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 081] tts        671  0  nil  1  1814939850  
+[2020/03/10 08:59:46 081] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 081] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 081] tts        671  0  nil  1  1814939850  
+[2020/03/10 08:59:46 081] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 081] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 081] tts        671  0  nil  1  1814939850  
+[2020/03/10 08:59:46 081] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 081] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 081] tts        671  0  nil  1  1814939850  
+[2020/03/10 08:59:46 081] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 081] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 081] tts        671  0  nil  1  1814939851  
+[2020/03/10 08:59:46 082] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 082] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 082] tts        671  0  nil  1  1814939851  
+[2020/03/10 08:59:46 082] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(240581b8) 27  
+[2020/03/10 08:59:46 082] tts        354  udata(240581b8) 27  
+[2020/03/10 08:59:46 082] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24058368) 27  
+[2020/03/10 08:59:46 082] tts        354  udata(24058368) 27  
+[2020/03/10 08:59:46 082] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 083] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 083] tts        649  982  
+[2020/03/10 08:59:46 083] tts        653  local audiolen:  982  ,ced:  27  
+[2020/03/10 08:59:46 083] tts        671  0  udata(24058038) 1  1814939852  
+[2020/03/10 08:59:46 083] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24276ec8) 27  
+[2020/03/10 08:59:46 083] tts        354  udata(24276ec8) 27  
+[2020/03/10 08:59:46 083] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(240585c8) 27  
+[2020/03/10 08:59:46 083] tts        354  udata(240585c8) 27  
+[2020/03/10 08:59:46 083] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 083] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 083] tts        649  950  
+[2020/03/10 08:59:46 083] tts        653  local audiolen:  950  ,ced:  27  
+[2020/03/10 08:59:46 083] tts        671  0  udata(240586c8) 1  1814939853  
+[2020/03/10 08:59:46 084] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24058778) 27  
+[2020/03/10 08:59:46 084] tts        354  udata(24058778) 27  
+[2020/03/10 08:59:46 084] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24058818) 27  
+[2020/03/10 08:59:46 084] tts        354  udata(24058818) 27  
+[2020/03/10 08:59:46 084] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 084] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 084] tts        649  878  
+[2020/03/10 08:59:46 084] tts        653  local audiolen:  878  ,ced:  27  
+[2020/03/10 08:59:46 084] tts        671  0  udata(24276168) 1  1814939854  
+[2020/03/10 08:59:46 085] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24276918) 27  
+[2020/03/10 08:59:46 085] tts        354  udata(24276918) 27  
+[2020/03/10 08:59:46 085] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24276268) 27  
+[2020/03/10 08:59:46 085] tts        354  udata(24276268) 27  
+[2020/03/10 08:59:46 085] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24276368) 27  
+[2020/03/10 08:59:46 085] tts        354  udata(24276368) 27  
+[2020/03/10 08:59:46 085] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 085] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 085] tts        649  934  
+[2020/03/10 08:59:46 085] tts        653  local audiolen:  934  ,ced:  27  
+[2020/03/10 08:59:46 085] tts        671  0  udata(242772d8) 1  1814939855  
+[2020/03/10 08:59:46 086] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24277748) 27  
+[2020/03/10 08:59:46 086] tts        354  udata(24277748) 27  
+[2020/03/10 08:59:46 086] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 086] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 086] tts        649  996  
+[2020/03/10 08:59:46 086] tts        653  local audiolen:  996  ,ced:  27  
+[2020/03/10 08:59:46 086] tts        671  0  udata(24057d78) 1  1814939855  
+[2020/03/10 08:59:46 086] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24276468) 27  
+[2020/03/10 08:59:46 086] tts        354  udata(24276468) 27  
+[2020/03/10 08:59:46 086] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 086] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 086] tts        649  1014  
+[2020/03/10 08:59:46 086] tts        653  local audiolen:  1014  ,ced:  27  
+[2020/03/10 08:59:46 086] tts        671  0  udata(24276968) 1  1814939856  
+[2020/03/10 08:59:46 087] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(240582b8) 27  
+[2020/03/10 08:59:46 087] tts        354  udata(240582b8) 27  
+[2020/03/10 08:59:46 087] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242767a8) 27  
+[2020/03/10 08:59:46 087] tts        354  udata(242767a8) 27  
+[2020/03/10 08:59:46 087] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242768a8) 27  
+[2020/03/10 08:59:46 087] tts        354  udata(242768a8) 27  
+[2020/03/10 08:59:46 087] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 087] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 087] tts        649  934  
+[2020/03/10 08:59:46 087] tts        653  local audiolen:  934  ,ced:  27  
+[2020/03/10 08:59:46 087] tts        671  0  udata(242778f8) 1  1814939857  
+[2020/03/10 08:59:46 087] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242779d8) 27  
+[2020/03/10 08:59:46 088] tts        354  udata(242779d8) 27  
+[2020/03/10 08:59:46 088] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 088] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 088] tts        649  922  
+[2020/03/10 08:59:46 088] tts        653  local audiolen:  922  ,ced:  27  
+[2020/03/10 08:59:46 088] tts        671  0  udata(24277a78) 1  1814939857  
+[2020/03/10 08:59:46 088] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24276b98) 27  
+[2020/03/10 08:59:46 088] tts        354  udata(24276b98) 27  
+[2020/03/10 08:59:46 088] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 088] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 088] tts        649  972  
+[2020/03/10 08:59:46 088] tts        653  local audiolen:  972  ,ced:  27  
+[2020/03/10 08:59:46 088] tts        671  0  udata(24287578) 1  1814939857  
+[2020/03/10 08:59:46 088] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24287a08) 27  
+[2020/03/10 08:59:46 088] tts        354  udata(24287a08) 27  
+[2020/03/10 08:59:46 088] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 088] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 088] tts        649  876  
+[2020/03/10 08:59:46 088] tts        653  local audiolen:  876  ,ced:  27  
+[2020/03/10 08:59:46 088] tts        671  0  udata(24276c38) 1  1814939858  
+[2020/03/10 08:59:46 089] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 089] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 089] tts        649  824  
+[2020/03/10 08:59:46 089] tts        653  local audiolen:  824  ,ced:  27  
+[2020/03/10 08:59:46 089] tts        671  0  udata(24277678) 1  1814939858  
+[2020/03/10 08:59:46 089] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 089] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 089] tts        649  1006  
+[2020/03/10 08:59:46 089] tts        653  local audiolen:  1006  ,ced:  27  
+[2020/03/10 08:59:46 089] tts        671  0  udata(24276c88) 1  1814939858  
+[2020/03/10 08:59:46 089] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 089] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 089] tts        649  784  
+[2020/03/10 08:59:46 089] tts        653  local audiolen:  784  ,ced:  27  
+[2020/03/10 08:59:46 089] tts        671  0  udata(24276d38) 1  1814939858  
+[2020/03/10 08:59:46 089] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 089] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 089] tts        649  960  
+[2020/03/10 08:59:46 089] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 089] tts        671  0  udata(24276d88) 1  1814939858  
+[2020/03/10 08:59:46 090] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 090] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 090] tts        649  976  
+[2020/03/10 08:59:46 090] tts        653  local audiolen:  976  ,ced:  27  
+[2020/03/10 08:59:46 090] tts        671  0  udata(24276dd8) 1  1814939859  
+[2020/03/10 08:59:46 090] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 090] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 090] tts        649  886  
+[2020/03/10 08:59:46 090] tts        653  local audiolen:  886  ,ced:  27  
+[2020/03/10 08:59:46 090] tts        671  0  udata(24276e28) 1  1814939860  
+[2020/03/10 08:59:46 091] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24276e78) 27  
+[2020/03/10 08:59:46 091] tts        354  udata(24276e78) 27  
+[2020/03/10 08:59:46 091] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24277388) 27  
+[2020/03/10 08:59:46 091] tts        354  udata(24277388) 27  
+[2020/03/10 08:59:46 091] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24277488) 27  
+[2020/03/10 08:59:46 091] tts        354  udata(24277488) 27  
+[2020/03/10 08:59:46 092] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 092] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 092] tts        649  996  
+[2020/03/10 08:59:46 092] tts        653  local audiolen:  996  ,ced:  27  
+[2020/03/10 08:59:46 092] tts        671  0  udata(24276cd8) 1  1814939861  
+[2020/03/10 08:59:46 092] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 092] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 092] tts        649  724  
+[2020/03/10 08:59:46 092] tts        653  local audiolen:  724  ,ced:  27  
+[2020/03/10 08:59:46 092] tts        671  0  udata(24287488) 1  1814939861  
+[2020/03/10 08:59:46 092] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 092] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 092] tts        649  960  
+[2020/03/10 08:59:46 092] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 092] tts        671  0  udata(242874d8) 1  1814939861  
+[2020/03/10 08:59:46 092] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 092] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 092] tts        649  960  
+[2020/03/10 08:59:46 092] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 092] tts        671  0  udata(24287998) 1  1814939862  
+[2020/03/10 08:59:46 092] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 092] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 092] tts        671  0  nil  1  1814939862  
+[2020/03/10 08:59:46 093] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 093] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 093] tts        671  0  nil  1  1814939862  
+[2020/03/10 08:59:46 093] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 093] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 093] tts        671  0  nil  1  1814939862  
+[2020/03/10 08:59:46 093] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 093] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 093] tts        671  0  nil  1  1814939862  
+[2020/03/10 08:59:46 093] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 093] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 093] tts        671  0  nil  1  1814939862  
+[2020/03/10 08:59:46 093] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 093] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 093] tts        671  0  nil  1  1814939862  
+[2020/03/10 08:59:46 093] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 093] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 093] tts        671  0  nil  1  1814939863  
+[2020/03/10 08:59:46 093] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 093] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 094] tts        671  0  nil  1  1814939863  
+[2020/03/10 08:59:46 094] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 094] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 094] tts        671  0  nil  1  1814939863  
+[2020/03/10 08:59:46 094] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 094] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 094] tts        671  0  nil  1  1814939863  
+[2020/03/10 08:59:46 094] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 094] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 094] tts        671  0  nil  1  1814939863  
+[2020/03/10 08:59:46 094] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 094] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 094] tts        671  0  nil  1  1814939863  
+[2020/03/10 08:59:46 094] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 094] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 094] tts        671  0  nil  1  1814939864  
+[2020/03/10 08:59:46 094] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 094] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 094] tts        671  0  nil  1  1814939864  
+[2020/03/10 08:59:46 095] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 095] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 095] tts        671  0  nil  1  1814939864  
+[2020/03/10 08:59:46 095] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 095] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 095] tts        671  0  nil  1  1814939864  
+[2020/03/10 08:59:46 095] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24277588) 27  
+[2020/03/10 08:59:46 095] tts        354  udata(24277588) 27  
+[2020/03/10 08:59:46 095] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 095] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 095] tts        649  956  
+[2020/03/10 08:59:46 096] tts        653  local audiolen:  956  ,ced:  27  
+[2020/03/10 08:59:46 096] tts        671  0  udata(24277628) 1  1814939865  
+[2020/03/10 08:59:46 096] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24287ed8) 27  
+[2020/03/10 08:59:46 096] tts        354  udata(24287ed8) 27  
+[2020/03/10 08:59:46 096] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 096] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 096] tts        649  876  
+[2020/03/10 08:59:46 096] tts        653  local audiolen:  876  ,ced:  27  
+[2020/03/10 08:59:46 096] tts        671  0  udata(24287248) 1  1814939865  
+[2020/03/10 08:59:46 096] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24287e88) 27  
+[2020/03/10 08:59:46 096] tts        354  udata(24287e88) 27  
+[2020/03/10 08:59:46 096] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 096] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 096] tts        649  852  
+[2020/03/10 08:59:46 096] tts        653  local audiolen:  852  ,ced:  27  
+[2020/03/10 08:59:46 096] tts        671  0  udata(24287348) 1  1814939866  
+[2020/03/10 08:59:46 096] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 096] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 096] tts        671  0  nil  1  1814939866  
+[2020/03/10 08:59:46 097] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 097] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 097] tts        671  0  nil  1  1814939866  
+[2020/03/10 08:59:46 097] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 097] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 097] tts        671  0  nil  1  1814939866  
+[2020/03/10 08:59:46 097] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 097] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 097] tts        671  0  nil  1  1814939866  
+[2020/03/10 08:59:46 097] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 097] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 097] tts        671  0  nil  1  1814939866  
+[2020/03/10 08:59:46 097] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 097] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 097] tts        671  0  nil  1  1814939866  
+[2020/03/10 08:59:46 097] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 097] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 097] tts        671  0  nil  1  1814939867  
+[2020/03/10 08:59:46 098] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 098] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 098] tts        671  0  nil  1  1814939867  
+[2020/03/10 08:59:46 098] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242873f8) 27  
+[2020/03/10 08:59:46 098] tts        354  udata(242873f8) 27  
+[2020/03/10 08:59:46 098] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 100] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 100] tts        649  880  
+[2020/03/10 08:59:46 100] tts        653  local audiolen:  880  ,ced:  27  
+[2020/03/10 08:59:46 100] tts        671  0  udata(24287b58) 1  1814939869  
+[2020/03/10 08:59:46 103] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24287c08) 27  
+[2020/03/10 08:59:46 103] tts        354  udata(24287c08) 27  
+[2020/03/10 08:59:46 103] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 103] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 103] tts        649  960  
+[2020/03/10 08:59:46 103] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 103] tts        671  0  udata(24287ca8) 1  1814939873  
+[2020/03/10 08:59:46 103] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288708) 27  
+[2020/03/10 08:59:46 103] tts        354  udata(24288708) 27  
+[2020/03/10 08:59:46 108] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288808) 27  
+[2020/03/10 08:59:46 108] tts        354  udata(24288808) 27  
+[2020/03/10 08:59:46 108] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288908) 27  
+[2020/03/10 08:59:46 108] tts        354  udata(24288908) 27  
+[2020/03/10 08:59:46 108] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288a08) 27  
+[2020/03/10 08:59:46 108] tts        354  udata(24288a08) 27  
+[2020/03/10 08:59:46 109] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288b08) 27  
+[2020/03/10 08:59:46 109] tts        354  udata(24288b08) 27  
+[2020/03/10 08:59:46 109] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288c08) 27  
+[2020/03/10 08:59:46 109] tts        354  udata(24288c08) 27  
+[2020/03/10 08:59:46 109] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288d08) 27  
+[2020/03/10 08:59:46 109] tts        354  udata(24288d08) 27  
+[2020/03/10 08:59:46 110] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 110] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 110] tts        649  880  
+[2020/03/10 08:59:46 111] tts        653  local audiolen:  880  ,ced:  27  
+[2020/03/10 08:59:46 111] tts        671  0  udata(24287d58) 1  1814939880  
+[2020/03/10 08:59:46 111] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 111] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 111] tts        649  968  
+[2020/03/10 08:59:46 111] tts        653  local audiolen:  968  ,ced:  27  
+[2020/03/10 08:59:46 111] tts        671  0  udata(242891e8) 1  1814939880  
+[2020/03/10 08:59:46 111] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 111] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 111] tts        649  864  
+[2020/03/10 08:59:46 111] tts        653  local audiolen:  864  ,ced:  27  
+[2020/03/10 08:59:46 111] tts        671  0  udata(24277288) 1  1814939880  
+[2020/03/10 08:59:46 111] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 111] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 111] tts        649  968  
+[2020/03/10 08:59:46 111] tts        653  local audiolen:  968  ,ced:  27  
+[2020/03/10 08:59:46 111] tts        671  0  udata(24287da8) 1  1814939880  
+[2020/03/10 08:59:46 111] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 111] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 111] tts        649  868  
+[2020/03/10 08:59:46 111] tts        653  local audiolen:  868  ,ced:  27  
+[2020/03/10 08:59:46 111] tts        671  0  udata(242886b8) 1  1814939881  
+[2020/03/10 08:59:46 112] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 112] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 112] tts        649  830  
+[2020/03/10 08:59:46 112] tts        653  local audiolen:  830  ,ced:  27  
+[2020/03/10 08:59:46 112] tts        671  0  udata(24287df8) 1  1814939881  
+[2020/03/10 08:59:46 112] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 112] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 112] tts        649  760  
+[2020/03/10 08:59:46 112] tts        653  local audiolen:  760  ,ced:  27  
+[2020/03/10 08:59:46 112] tts        671  0  udata(24277228) 1  1814939881  
+[2020/03/10 08:59:46 112] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 112] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 112] tts        671  0  nil  1  1814939881  
+[2020/03/10 08:59:46 112] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 112] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 112] tts        671  0  nil  1  1814939882  
+[2020/03/10 08:59:46 112] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 112] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 112] tts        671  0  nil  1  1814939882  
+[2020/03/10 08:59:46 113] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 113] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 113] tts        671  0  nil  1  1814939882  
+[2020/03/10 08:59:46 113] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 114] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 114] tts        671  0  nil  1  1814939883  
+[2020/03/10 08:59:46 114] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 114] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 114] tts        671  0  nil  1  1814939883  
+[2020/03/10 08:59:46 114] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 114] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 114] tts        671  0  nil  1  1814939883  
+[2020/03/10 08:59:46 114] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 114] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 114] tts        671  0  nil  1  1814939884  
+[2020/03/10 08:59:46 115] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 115] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 115] tts        671  0  nil  1  1814939884  
+[2020/03/10 08:59:46 115] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 115] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 115] tts        671  0  nil  1  1814939884  
+[2020/03/10 08:59:46 115] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 115] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 115] tts        671  0  nil  1  1814939884  
+[2020/03/10 08:59:46 115] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 115] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 115] tts        671  0  nil  1  1814939884  
+[2020/03/10 08:59:46 115] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 115] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 115] tts        671  0  nil  1  1814939885  
+[2020/03/10 08:59:46 115] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 116] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 116] tts        671  0  nil  1  1814939885  
+[2020/03/10 08:59:46 116] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 116] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 116] tts        671  0  nil  1  1814939885  
+[2020/03/10 08:59:46 116] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 116] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 116] tts        671  0  nil  1  1814939885  
+[2020/03/10 08:59:46 116] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 116] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 116] tts        671  0  nil  1  1814939885  
+[2020/03/10 08:59:46 116] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 116] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 117] tts        671  0  nil  1  1814939886  
+[2020/03/10 08:59:46 117] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24276598) 27  
+[2020/03/10 08:59:46 117] tts        354  udata(24276598) 27  
+[2020/03/10 08:59:46 117] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 117] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 117] tts        649  884  
+[2020/03/10 08:59:46 117] tts        653  local audiolen:  884  ,ced:  27  
+[2020/03/10 08:59:46 117] tts        671  0  udata(24276638) 1  1814939886  
+[2020/03/10 08:59:46 117] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289198) 27  
+[2020/03/10 08:59:46 117] tts        354  udata(24289198) 27  
+[2020/03/10 08:59:46 118] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 118] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 118] tts        649  960  
+[2020/03/10 08:59:46 118] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 118] tts        671  0  udata(24276738) 1  1814939887  
+[2020/03/10 08:59:46 118] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289608) 27  
+[2020/03/10 08:59:46 118] tts        354  udata(24289608) 27  
+[2020/03/10 08:59:46 118] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 118] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 118] tts        649  960  
+[2020/03/10 08:59:46 118] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 118] tts        671  0  udata(24276fc8) 1  1814939888  
+[2020/03/10 08:59:46 119] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24277078) 27  
+[2020/03/10 08:59:46 119] tts        354  udata(24277078) 27  
+[2020/03/10 08:59:46 119] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 119] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 119] tts        649  960  
+[2020/03/10 08:59:46 119] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 119] tts        671  0  udata(24277118) 1  1814939888  
+[2020/03/10 08:59:46 119] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242771c8) 27  
+[2020/03/10 08:59:46 119] tts        354  udata(242771c8) 27  
+[2020/03/10 08:59:46 119] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 119] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 119] tts        649  960  
+[2020/03/10 08:59:46 119] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 119] tts        671  0  udata(24288388) 1  1814939889  
+[2020/03/10 08:59:46 120] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288438) 27  
+[2020/03/10 08:59:46 120] tts        354  udata(24288438) 27  
+[2020/03/10 08:59:46 120] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242884d8) 27  
+[2020/03/10 08:59:46 120] tts        354  udata(242884d8) 27  
+[2020/03/10 08:59:46 120] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 120] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 120] tts        649  960  
+[2020/03/10 08:59:46 120] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 120] tts        671  0  udata(242885d8) 1  1814939889  
+[2020/03/10 08:59:46 120] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 120] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 120] tts        649  960  
+[2020/03/10 08:59:46 120] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 120] tts        671  0  udata(24288e08) 1  1814939889  
+[2020/03/10 08:59:46 120] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 120] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 120] tts        671  0  nil  1  1814939890  
+[2020/03/10 08:59:46 121] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 121] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 121] tts        671  0  nil  1  1814939890  
+[2020/03/10 08:59:46 121] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 121] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 121] tts        671  0  nil  1  1814939890  
+[2020/03/10 08:59:46 121] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 121] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 121] tts        671  0  nil  1  1814939890  
+[2020/03/10 08:59:46 121] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 121] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 121] tts        671  0  nil  1  1814939890  
+[2020/03/10 08:59:46 121] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 121] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 121] tts        671  0  nil  1  1814939891  
+[2020/03/10 08:59:46 121] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 121] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 122] tts        671  0  nil  1  1814939891  
+[2020/03/10 08:59:46 122] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 122] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 122] tts        671  0  nil  1  1814939891  
+[2020/03/10 08:59:46 122] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288e58) 27  
+[2020/03/10 08:59:46 122] tts        354  udata(24288e58) 27  
+[2020/03/10 08:59:46 122] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24288ef8) 42  
+[2020/03/10 08:59:46 122] tts        354  udata(24288ef8) 42  
+[2020/03/10 08:59:46 122] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 122] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 122] tts        649  960  
+[2020/03/10 08:59:46 122] tts        653  local audiolen:  960  ,ced:  27  
+[2020/03/10 08:59:46 122] tts        671  0  udata(24288ff8) 1  1814939892  
+[2020/03/10 08:59:46 123] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 123] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 123] tts        649  960  
+[2020/03/10 08:59:46 123] tts        653  local audiolen:  960  ,ced:  42  
+[2020/03/10 08:59:46 123] tts        671  0  udata(242890a8) 1  1814939892  
+[2020/03/10 08:59:46 126] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 126] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 126] tts        671  0  nil  1  1814939895  
+[2020/03/10 08:59:46 126] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 126] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 126] tts        671  0  nil  1  1814939895  
+[2020/03/10 08:59:46 127] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 127] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 127] tts        671  0  nil  1  1814939896  
+[2020/03/10 08:59:46 131] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 131] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 131] tts        671  0  nil  1  1814939900  
+[2020/03/10 08:59:46 131] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242890f8) 42  
+[2020/03/10 08:59:46 131] tts        354  udata(242890f8) 42  
+[2020/03/10 08:59:46 131] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 131] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 131] tts        649  858  
+[2020/03/10 08:59:46 131] tts        653  local audiolen:  858  ,ced:  42  
+[2020/03/10 08:59:46 131] tts        671  0  udata(24287938) 1  1814939901  
+[2020/03/10 08:59:46 132] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289298) 42  
+[2020/03/10 08:59:46 132] tts        354  udata(24289298) 42  
+[2020/03/10 08:59:46 132] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289338) 42  
+[2020/03/10 08:59:46 132] tts        354  udata(24289338) 42  
+[2020/03/10 08:59:46 133] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289438) 42  
+[2020/03/10 08:59:46 133] tts        354  udata(24289438) 42  
+[2020/03/10 08:59:46 133] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289538) 42  
+[2020/03/10 08:59:46 133] tts        354  udata(24289538) 42  
+[2020/03/10 08:59:46 133] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242896b8) 42  
+[2020/03/10 08:59:46 133] tts        354  udata(242896b8) 42  
+[2020/03/10 08:59:46 133] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 133] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 133] tts        649  994  
+[2020/03/10 08:59:46 133] tts        653  local audiolen:  994  ,ced:  42  
+[2020/03/10 08:59:46 133] tts        671  0  udata(24015398) 1  1814939902  
+[2020/03/10 08:59:46 133] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 133] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 133] tts        649  916  
+[2020/03/10 08:59:46 133] tts        653  local audiolen:  916  ,ced:  42  
+[2020/03/10 08:59:46 133] tts        671  0  udata(24289b68) 1  1814939902  
+[2020/03/10 08:59:46 133] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 133] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 133] tts        649  984  
+[2020/03/10 08:59:46 133] tts        653  local audiolen:  984  ,ced:  42  
+[2020/03/10 08:59:46 134] tts        671  0  udata(24289fa8) 1  1814939903  
+[2020/03/10 08:59:46 134] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 134] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 134] tts        649  978  
+[2020/03/10 08:59:46 134] tts        653  local audiolen:  978  ,ced:  42  
+[2020/03/10 08:59:46 134] tts        671  0  udata(24289ff8) 1  1814939903  
+[2020/03/10 08:59:46 134] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 134] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 134] tts        649  976  
+[2020/03/10 08:59:46 134] tts        653  local audiolen:  976  ,ced:  42  
+[2020/03/10 08:59:46 134] tts        671  0  udata(2428a048) 1  1814939903  
+[2020/03/10 08:59:46 134] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 134] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 134] tts        671  0  nil  1  1814939904  
+[2020/03/10 08:59:46 135] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 135] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 135] tts        671  0  nil  1  1814939904  
+[2020/03/10 08:59:46 135] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 135] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 135] tts        671  0  nil  1  1814939904  
+[2020/03/10 08:59:46 135] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 135] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 135] tts        671  0  nil  1  1814939904  
+[2020/03/10 08:59:46 135] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 135] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 135] tts        671  0  nil  1  1814939904  
+[2020/03/10 08:59:46 135] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 135] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 135] tts        671  0  nil  1  1814939905  
+[2020/03/10 08:59:46 135] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 135] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 136] tts        671  0  nil  1  1814939905  
+[2020/03/10 08:59:46 136] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 136] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 136] tts        671  0  nil  1  1814939905  
+[2020/03/10 08:59:46 137] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 137] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 137] tts        671  0  nil  1  1814939906  
+[2020/03/10 08:59:46 137] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 137] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 137] tts        671  0  nil  1  1814939906  
+[2020/03/10 08:59:46 137] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 137] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 137] tts        671  0  nil  1  1814939906  
+[2020/03/10 08:59:46 137] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 137] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 137] tts        671  0  nil  1  1814939907  
+[2020/03/10 08:59:46 138] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 138] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 138] tts        671  0  nil  1  1814939907  
+[2020/03/10 08:59:46 138] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 138] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 138] tts        671  0  nil  1  1814939907  
+[2020/03/10 08:59:46 138] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(2428a098) 42  
+[2020/03/10 08:59:46 138] tts        354  udata(2428a098) 42  
+[2020/03/10 08:59:46 138] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 138] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 138] tts        649  876  
+[2020/03/10 08:59:46 138] tts        653  local audiolen:  876  ,ced:  42  
+[2020/03/10 08:59:46 138] tts        671  0  udata(2428a138) 1  1814939908  
+[2020/03/10 08:59:46 139] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289f38) 42  
+[2020/03/10 08:59:46 139] tts        354  udata(24289f38) 42  
+[2020/03/10 08:59:46 139] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(2428a238) 42  
+[2020/03/10 08:59:46 139] tts        354  udata(2428a238) 42  
+[2020/03/10 08:59:46 139] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 139] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 139] tts        649  960  
+[2020/03/10 08:59:46 139] tts        653  local audiolen:  960  ,ced:  42  
+[2020/03/10 08:59:46 139] tts        671  0  udata(24021b48) 1  1814939908  
+[2020/03/10 08:59:46 140] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 140] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 140] tts        649  960  
+[2020/03/10 08:59:46 140] tts        653  local audiolen:  960  ,ced:  42  
+[2020/03/10 08:59:46 140] tts        671  0  udata(24287688) 1  1814939909  
+[2020/03/10 08:59:46 140] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 140] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 140] tts        671  0  nil  1  1814939909  
+[2020/03/10 08:59:46 140] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 140] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 140] tts        671  0  nil  1  1814939909  
+[2020/03/10 08:59:46 140] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 140] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 140] tts        671  0  nil  1  1814939910  
+[2020/03/10 08:59:46 141] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 141] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 141] tts        671  0  nil  1  1814939910  
+[2020/03/10 08:59:46 141] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 141] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 141] tts        671  0  nil  1  1814939910  
+[2020/03/10 08:59:46 141] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 141] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 141] tts        671  0  nil  1  1814939910  
+[2020/03/10 08:59:46 141] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 141] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 141] tts        671  0  nil  1  1814939911  
+[2020/03/10 08:59:46 141] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 141] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 142] tts        671  0  nil  1  1814939911  
+[2020/03/10 08:59:46 142] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 142] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 142] tts        671  0  nil  1  1814939911  
+[2020/03/10 08:59:46 142] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 142] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 142] tts        671  0  nil  1  1814939911  
+[2020/03/10 08:59:46 142] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242876d8) 42  
+[2020/03/10 08:59:46 142] tts        354  udata(242876d8) 42  
+[2020/03/10 08:59:46 142] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 142] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 142] tts        649  984  
+[2020/03/10 08:59:46 142] tts        653  local audiolen:  984  ,ced:  42  
+[2020/03/10 08:59:46 142] tts        671  0  udata(24021fe8) 1  1814939912  
+[2020/03/10 08:59:46 143] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 143] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 143] tts        671  0  nil  1  1814939912  
+[2020/03/10 08:59:46 143] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24287778) 42  
+[2020/03/10 08:59:46 143] tts        354  udata(24287778) 42  
+[2020/03/10 08:59:46 143] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 143] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 143] tts        649  784  
+[2020/03/10 08:59:46 143] tts        653  local audiolen:  784  ,ced:  42  
+[2020/03/10 08:59:46 143] tts        671  0  udata(24289ed8) 1  1814939912  
+[2020/03/10 08:59:46 143] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289ad8) 42  
+[2020/03/10 08:59:46 143] tts        354  udata(24289ad8) 42  
+[2020/03/10 08:59:46 143] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 143] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 144] tts        649  840  
+[2020/03/10 08:59:46 144] tts        653  local audiolen:  840  ,ced:  42  
+[2020/03/10 08:59:46 144] tts        671  0  udata(24021ad8) 1  1814939913  
+[2020/03/10 08:59:46 144] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 144] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 144] tts        671  0  nil  1  1814939913  
+[2020/03/10 08:59:46 144] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 144] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 144] tts        671  0  nil  1  1814939913  
+[2020/03/10 08:59:46 144] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 144] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 144] tts        671  0  nil  1  1814939913  
+[2020/03/10 08:59:46 144] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 144] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 144] tts        671  0  nil  1  1814939914  
+[2020/03/10 08:59:46 145] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 145] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 145] tts        671  0  nil  1  1814939914  
+[2020/03/10 08:59:46 145] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(242897b8) 42  
+[2020/03/10 08:59:46 145] tts        354  udata(242897b8) 42  
+[2020/03/10 08:59:46 145] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 145] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 145] tts        649  902  
+[2020/03/10 08:59:46 145] tts        653  local audiolen:  902  ,ced:  42  
+[2020/03/10 08:59:46 145] tts        671  0  udata(24021f98) 1  1814939915  
+[2020/03/10 08:59:46 145] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24022438) 42  
+[2020/03/10 08:59:46 145] tts        354  udata(24022438) 42  
+[2020/03/10 08:59:46 146] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 146] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 146] tts        649  960  
+[2020/03/10 08:59:46 146] tts        653  local audiolen:  960  ,ced:  42  
+[2020/03/10 08:59:46 146] tts        671  0  udata(24022858) 1  1814939915  
+[2020/03/10 08:59:46 146] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 146] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 146] tts        671  0  nil  1  1814939915  
+[2020/03/10 08:59:46 146] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 146] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 146] tts        671  0  nil  1  1814939915  
+[2020/03/10 08:59:46 146] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 146] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 146] tts        671  0  nil  1  1814939915  
+[2020/03/10 08:59:46 146] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 146] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 146] tts        671  0  nil  1  1814939915  
+[2020/03/10 08:59:46 146] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 146] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 146] tts        671  0  nil  1  1814939916  
+[2020/03/10 08:59:46 147] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 147] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 147] tts        671  0  nil  1  1814939916  
+[2020/03/10 08:59:46 147] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 147] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 147] tts        671  0  nil  1  1814939916  
+[2020/03/10 08:59:46 147] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 147] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 147] tts        671  0  nil  1  1814939916  
+[2020/03/10 08:59:46 147] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 147] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 147] tts        671  0  nil  1  1814939916  
+[2020/03/10 08:59:46 147] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 147] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 147] tts        671  0  nil  1  1814939916  
+[2020/03/10 08:59:46 147] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 147] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 147] tts        671  0  nil  1  1814939917  
+[2020/03/10 08:59:46 147] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 147] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 147] tts        671  0  nil  1  1814939917  
+[2020/03/10 08:59:46 148] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 148] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 148] tts        671  0  nil  1  1814939917  
+[2020/03/10 08:59:46 148] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 148] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 148] tts        671  0  nil  1  1814939917  
+[2020/03/10 08:59:46 148] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 148] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 148] tts        671  0  nil  1  1814939917  
+[2020/03/10 08:59:46 148] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 148] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 148] tts        671  0  nil  1  1814939917  
+[2020/03/10 08:59:46 148] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 148] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 148] tts        671  0  nil  1  1814939918  
+[2020/03/10 08:59:46 148] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289908) 42  
+[2020/03/10 08:59:46 149] tts        354  udata(24289908) 42  
+[2020/03/10 08:59:46 149] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 149] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 149] tts        649  872  
+[2020/03/10 08:59:46 149] tts        653  local audiolen:  872  ,ced:  42  
+[2020/03/10 08:59:46 149] tts        671  0  udata(242899a8) 1  1814939918  
+[2020/03/10 08:59:46 149] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289a58) 42  
+[2020/03/10 08:59:46 149] tts        354  udata(24289a58) 42  
+[2020/03/10 08:59:46 149] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 149] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 149] tts        649  964  
+[2020/03/10 08:59:46 149] tts        653  local audiolen:  964  ,ced:  42  
+[2020/03/10 08:59:46 149] tts        671  0  udata(24289c08) 1  1814939919  
+[2020/03/10 08:59:46 149] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(240234f8) 42  
+[2020/03/10 08:59:46 149] tts        354  udata(240234f8) 42  
+[2020/03/10 08:59:46 150] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 150] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 150] tts        649  888  
+[2020/03/10 08:59:46 150] tts        653  local audiolen:  888  ,ced:  42  
+[2020/03/10 08:59:46 150] tts        671  0  udata(24289d08) 1  1814939919  
+[2020/03/10 08:59:46 150] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24289db8) 42  
+[2020/03/10 08:59:46 150] tts        354  udata(24289db8) 42  
+[2020/03/10 08:59:46 150] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 150] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 150] tts        649  1022  
+[2020/03/10 08:59:46 150] tts        653  local audiolen:  1022  ,ced:  42  
+[2020/03/10 08:59:46 150] tts        671  0  udata(24289e58) 1  1814939919  
+[2020/03/10 08:59:46 150] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 150] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 150] tts        671  0  nil  1  1814939919  
+[2020/03/10 08:59:46 150] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 150] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 150] tts        671  0  nil  1  1814939919  
+[2020/03/10 08:59:46 150] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 150] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 150] tts        671  0  nil  1  1814939920  
+[2020/03/10 08:59:46 151] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 151] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 151] tts        671  0  nil  1  1814939920  
+[2020/03/10 08:59:46 151] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 151] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 151] tts        671  0  nil  1  1814939920  
+[2020/03/10 08:59:46 151] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 151] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 151] tts        671  0  nil  1  1814939920  
+[2020/03/10 08:59:46 151] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 151] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 151] tts        671  0  nil  1  1814939920  
+[2020/03/10 08:59:46 151] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 151] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 151] tts        671  0  nil  1  1814939921  
+[2020/03/10 08:59:46 151] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(240217d8) 42  
+[2020/03/10 08:59:46 152] tts        354  udata(240217d8) 42  
+[2020/03/10 08:59:46 152] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24021878) 42  
+[2020/03/10 08:59:46 152] tts        354  udata(24021878) 42  
+[2020/03/10 08:59:46 152] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 152] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 152] tts        649  810  
+[2020/03/10 08:59:46 152] tts        653  local audiolen:  810  ,ced:  42  
+[2020/03/10 08:59:46 152] tts        671  0  udata(240223d8) 1  1814939921  
+[2020/03/10 08:59:46 152] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 152] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 152] tts        649  960  
+[2020/03/10 08:59:46 152] tts        653  local audiolen:  960  ,ced:  42  
+[2020/03/10 08:59:46 152] tts        671  0  udata(240219d8) 1  1814939921  
+[2020/03/10 08:59:46 152] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 152] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 152] tts        671  0  nil  1  1814939921  
+[2020/03/10 08:59:46 152] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 152] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 152] tts        671  0  nil  1  1814939922  
+[2020/03/10 08:59:46 152] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 152] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 152] tts        671  0  nil  1  1814939922  
+[2020/03/10 08:59:46 153] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 153] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 153] tts        671  0  nil  1  1814939922  
+[2020/03/10 08:59:46 153] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 153] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 153] tts        671  0  nil  1  1814939922  
+[2020/03/10 08:59:46 153] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 153] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 153] tts        671  0  nil  1  1814939922  
+[2020/03/10 08:59:46 153] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 153] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 153] tts        671  0  nil  1  1814939923  
+[2020/03/10 08:59:46 153] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 153] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 153] tts        671  0  nil  1  1814939923  
+[2020/03/10 08:59:46 154] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 154] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 154] tts        671  0  nil  1  1814939923  
+[2020/03/10 08:59:46 154] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 154] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 154] tts        671  0  nil  1  1814939923  
+[2020/03/10 08:59:46 154] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 154] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 154] tts        671  0  nil  1  1814939923  
+[2020/03/10 08:59:46 154] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 154] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 154] tts        671  0  nil  1  1814939923  
+[2020/03/10 08:59:46 154] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 154] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 154] tts        671  0  nil  1  1814939924  
+[2020/03/10 08:59:46 154] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 154] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 155] tts        671  0  nil  1  1814939924  
+[2020/03/10 08:59:46 155] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 155] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 155] tts        671  0  nil  1  1814939924  
+[2020/03/10 08:59:46 155] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 155] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 155] tts        671  0  nil  1  1814939924  
+[2020/03/10 08:59:46 155] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 155] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 155] tts        671  0  nil  1  1814939924  
+[2020/03/10 08:59:46 155] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 155] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 155] tts        671  0  nil  1  1814939924  
+[2020/03/10 08:59:46 155] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 155] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 155] tts        671  0  nil  1  1814939925  
+[2020/03/10 08:59:46 156] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 156] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 156] tts        671  0  nil  1  1814939925  
+[2020/03/10 08:59:46 156] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24021a28) 42  
+[2020/03/10 08:59:46 156] tts        354  udata(24021a28) 42  
+[2020/03/10 08:59:46 156] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 156] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 156] tts        649  1022  
+[2020/03/10 08:59:46 156] tts        653  local audiolen:  1022  ,ced:  42  
+[2020/03/10 08:59:46 156] tts        671  0  udata(24022098) 1  1814939926  
+[2020/03/10 08:59:46 157] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 157] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 157] tts        671  0  nil  1  1814939926  
+[2020/03/10 08:59:46 157] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24022148) 42  
+[2020/03/10 08:59:46 157] tts        354  udata(24022148) 42  
+[2020/03/10 08:59:46 157] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 157] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 157] tts        649  1024  
+[2020/03/10 08:59:46 157] tts        653  local audiolen:  1024  ,ced:  42  
+[2020/03/10 08:59:46 157] tts        671  0  udata(240221e8) 1  1814939927  
+[2020/03/10 08:59:46 158] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24022298) 42  
+[2020/03/10 08:59:46 158] tts        354  udata(24022298) 42  
+[2020/03/10 08:59:46 158] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24022338) 42  
+[2020/03/10 08:59:46 158] tts        354  udata(24022338) 42  
+[2020/03/10 08:59:46 158] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 158] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 158] tts        649  960  
+[2020/03/10 08:59:46 158] tts        653  local audiolen:  960  ,ced:  42  
+[2020/03/10 08:59:46 158] tts        671  0  udata(24021c58) 1  1814939927  
+[2020/03/10 08:59:46 158] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24021d08) 42  
+[2020/03/10 08:59:46 158] tts        354  udata(24021d08) 42  
+[2020/03/10 08:59:46 161] tts        350  TTS_PUREXTTS_CB_OUTPUT  101  udata(24021da8) 42  
+[2020/03/10 08:59:46 161] tts        354  udata(24021da8) 42  
+[2020/03/10 08:59:46 163] tts        340  0  0  
+[2020/03/10 08:59:46 163] tts        347  TTS_PUREXTTS_CB_END,  2  
+[2020/03/10 08:59:46 163] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 163] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 163] tts        649  1002  
+[2020/03/10 08:59:46 164] tts        653  local audiolen:  1002  ,ced:  42  
+[2020/03/10 08:59:46 164] tts        671  0  udata(24021ef8) 1  1814939933  
+[2020/03/10 08:59:46 164] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 164] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 164] tts        649  1568  
+[2020/03/10 08:59:46 164] tts        653  local audiolen:  1568  ,ced:  42  
+[2020/03/10 08:59:46 164] tts        671  0  udata(24021f48) 1  1814939933  
+[2020/03/10 08:59:46 164] tts        792  TTS_MSG_GETAUDIO  0  
+[2020/03/10 08:59:46 164] tts        638  get audio|use purextts  
+[2020/03/10 08:59:46 164] tts        649  8224  
+[2020/03/10 08:59:46 164] tts        653  local audiolen:  8224  ,ced:  42  
+[2020/03/10 08:59:46 164] tts        671  0  udata(24023268) 2  1814939933  
+[2020/03/10 08:59:46 164] tts        795  TTS_MSG_SSE  
+[2020/03/10 08:59:46 165] tts        742  sse|use local  
+[2020/03/10 08:59:46 165] tts        761  audio_id=  2  
+[2020/03/10 08:59:46 165] tts        764  tts exit  
